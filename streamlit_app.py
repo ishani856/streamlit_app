@@ -10,3 +10,9 @@ streamlit.text('Yeaahhhh 😉.....cool so for these  sql is must and ETL related
 streamlit.text('Also completed the Full Stack Analyst Certification')
 streamlit.text('A good practice of On Cloud Practices in Azure is been added inspite of all above ...... sounds good yeaahhhhh 💖👌🤞.......... lets keep going this journey')
 
+
+streamlit.header(' 😋  Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text(' 🥫  Kale, Spinach & Rocket Smoothie')
+streamlit.text(' 🥚 Hard-Boiled Free-Range Egg')
+
